@@ -1,7 +1,7 @@
 {
-  "version": "scope-1.0.8",
-  "versionCode": 10008,
-  "notes": "· 修复：AI 生成的机型之前没有真正生效（一直是真实机型），现已修复\n· 日志页会标出解析失败的配置，并列出全部配置和正在注入的那一套\n· AI 只生成确定存在的机型，平台代号更真实\n※ 更新后请回到配置里重新点一次「保存」并「启动」",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.8/DeviceSpoofer-Scope-v1.0.8.apk",
-  "sha256": "4e1aa93eb11288b4d962fcd8571da6b1604ccd54ded7602667fcc563f4087289"
+  "version": "scope-1.0.9",
+  "versionCode": 10009,
+  "notes": "· AI 生成：你点名哪款就生成哪款，不再擅自换成别的机型\n· 机型显示为「宣传名（型号代码）」，如 vivo X200 Ultra（V2454A）\n· 自动校正 AI 机型参数：构建号前缀跟随系统版本、DEVICE 与 PRODUCT 一致、SDK 跟随系统版本",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.9/DeviceSpoofer-Scope-v1.0.9.apk",
+  "sha256": "f4863db037c42de7e7f4e428a88b1ff2d1b25db4ca5cbc140a1fe2b3e423609f"
 }
