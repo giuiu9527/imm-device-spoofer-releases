@@ -1,7 +1,7 @@
 {
-  "version": "3.2.2",
-  "versionCode": 11,
-  "notes": "· LSPosed 里默认推荐勾选深造播放器（首次启用模块时自动勾选；已启用的在作用域页点「推荐」）",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.2.2/DeviceSpoofer-Multi-v3.2.2.apk",
-  "sha256": "d243429acc8b75b5e2a533d4cbd4c48276f0d2b8b0f479180321ee32e4fe2dcd"
+  "version": "3.3.0",
+  "versionCode": 12,
+  "notes": "· 新增首页「日志」：汇总各应用当前注入的完整配置、AI 原始返回和操作记录，一键复制/分享\n· 修复 AI 机型显示重复品牌（如 VIVO VIVO …）\n· AI 生成的型号/SoC 改用真机原始代码（如 V2414A、MT6991），更像真机",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.3.0/DeviceSpoofer-Multi-v3.3.0.apk",
+  "sha256": "54ce6354cc9378780e363a26a683f8aeaefd2591a07d8642c4eff17d354f733a"
 }
