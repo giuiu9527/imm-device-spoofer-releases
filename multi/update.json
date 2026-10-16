@@ -1,7 +1,7 @@
 {
-  "version": "3.2.1",
-  "versionCode": 10,
-  "notes": "· 默认 AI 接口换成小米 MiMo（mimo-v2.6-flash），装好不用填密钥即可用 AI 生成机型\n· 若之前在「AI 设置」里手动保存过，会继续用你保存的配置",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.2.1/DeviceSpoofer-Multi-v3.2.1.apk",
-  "sha256": "6513450dfa754b9410afa2b3266be323ee9404f7ac7dc516422563e63df86d7b"
+  "version": "3.2.2",
+  "versionCode": 11,
+  "notes": "· LSPosed 里默认推荐勾选深造播放器（首次启用模块时自动勾选；已启用的在作用域页点「推荐」）",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.2.2/DeviceSpoofer-Multi-v3.2.2.apk",
+  "sha256": "d243429acc8b75b5e2a533d4cbd4c48276f0d2b8b0f479180321ee32e4fe2dcd"
 }
