@@ -1,7 +1,7 @@
 {
-  "version": "scope-1.0.4",
-  "versionCode": 10004,
-  "notes": "· 新增：打开被勾选的应用时弹提示，显示伪装是否生效（首页可关）\n· 更新改为从 GitHub 下载，国内自动走加速镜像",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.4/DeviceSpoofer-Scope-v1.0.4.apk",
-  "sha256": "5b9c1e1cf3f2d8531eb08dcdd6055bb6ef9dfab39080f8dbd2a87c1882fbd959"
+  "version": "scope-1.0.5",
+  "versionCode": 10005,
+  "notes": "· 默认 AI 接口换成小米 MiMo（mimo-v2.6-flash），装好即可用 AI 生成机型\n· 若之前在「AI 设置」里手动保存过，会继续用你保存的配置",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.5/DeviceSpoofer-Scope-v1.0.5.apk",
+  "sha256": "f583863766e85eea11bfdfe92db94c8af236c01653bdb052a67b38c0fd5cb048"
 }
