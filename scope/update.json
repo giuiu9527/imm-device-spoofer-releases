@@ -1,7 +1,7 @@
 {
-  "version": "scope-1.0.5",
-  "versionCode": 10005,
-  "notes": "· 默认 AI 接口换成小米 MiMo（mimo-v2.6-flash），装好即可用 AI 生成机型\n· 若之前在「AI 设置」里手动保存过，会继续用你保存的配置",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.5/DeviceSpoofer-Scope-v1.0.5.apk",
-  "sha256": "f583863766e85eea11bfdfe92db94c8af236c01653bdb052a67b38c0fd5cb048"
+  "version": "scope-1.0.6",
+  "versionCode": 10006,
+  "notes": "· LSPosed 里默认推荐勾选深造播放器（首次启用模块时自动勾选；已启用的在作用域页点「推荐」）",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.6/DeviceSpoofer-Scope-v1.0.6.apk",
+  "sha256": "086b334b4094f0debe689ce719b0e8af4a80ea52b9d2a5dc1255ba8299069943"
 }
