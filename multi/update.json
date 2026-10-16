@@ -1,0 +1,7 @@
+{
+  "version": "3.2.0",
+  "versionCode": 9,
+  "notes": "· 新增：打开被配置的应用时弹提示，显示伪装是否生效（首页可关）\n· 新增：首页「检查更新」，从 GitHub 一键升级，国内自动走加速镜像",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.2.0/DeviceSpoofer-Multi-v3.2.0.apk",
+  "sha256": "060d7163c82a6f395b8a0c2f005a52226f1cc7b4dd3129638e051adf9be1d2c4"
+}
