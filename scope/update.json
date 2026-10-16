@@ -1,7 +1,7 @@
 {
-  "version": "scope-1.0.7",
-  "versionCode": 10007,
-  "notes": "· 新增首页「日志」：汇总当前注入的完整配置、AI 原始返回和操作记录，一键复制/分享\n· 修复 AI 机型显示重复品牌（如 VIVO VIVO …）\n· AI 生成的型号/SoC 改用真机原始代码（如 V2414A、MT6991），更像真机",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.7/DeviceSpoofer-Scope-v1.0.7.apk",
-  "sha256": "0beafe83233835abd8fe56af48d0038956b014b7d9e4d74c3be1e7565f3ce484"
+  "version": "scope-1.0.8",
+  "versionCode": 10008,
+  "notes": "· 修复：AI 生成的机型之前没有真正生效（一直是真实机型），现已修复\n· 日志页会标出解析失败的配置，并列出全部配置和正在注入的那一套\n· AI 只生成确定存在的机型，平台代号更真实\n※ 更新后请回到配置里重新点一次「保存」并「启动」",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.8/DeviceSpoofer-Scope-v1.0.8.apk",
+  "sha256": "4e1aa93eb11288b4d962fcd8571da6b1604ccd54ded7602667fcc563f4087289"
 }
