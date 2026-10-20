@@ -1,7 +1,7 @@
 {
-  "version": "scope-1.0.9",
-  "versionCode": 10009,
-  "notes": "· AI 生成：你点名哪款就生成哪款，不再擅自换成别的机型\n· 机型显示为「宣传名（型号代码）」，如 vivo X200 Ultra（V2454A）\n· 自动校正 AI 机型参数：构建号前缀跟随系统版本、DEVICE 与 PRODUCT 一致、SDK 跟随系统版本",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.9/DeviceSpoofer-Scope-v1.0.9.apk",
-  "sha256": "f4863db037c42de7e7f4e428a88b1ff2d1b25db4ca5cbc140a1fe2b3e423609f"
+  "version": "scope-1.0.10",
+  "versionCode": 10010,
+  "notes": "新增：对 LSPosed 勾选的应用强制允许截屏/录屏（首页开关，默认开）",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.10/DeviceSpoofer-Scope-v1.0.10.apk",
+  "sha256": "fa52955913900805a0ec6368865783564449d3728bd8efcba76ad073ce0735a0"
 }
