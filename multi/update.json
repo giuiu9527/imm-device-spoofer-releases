@@ -1,7 +1,7 @@
 {
-  "version": "3.3.3",
-  "versionCode": 15,
-  "notes": "新增：对 LSPosed 勾选的应用强制允许截屏/录屏（首页开关，默认开）",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.3.3/DeviceSpoofer-Multi-v3.3.3.apk",
-  "sha256": "835230df643a30cc5d623b1ba3c2bb4f7e3ca99d24113db68467ae35c5cf7190"
+  "version": "3.3.4",
+  "versionCode": 16,
+  "notes": "检查更新增加 Gitee 镜像，失败时列出每个来源的原因。",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.3.4/DeviceSpoofer-Multi-v3.3.4.apk",
+  "sha256": "c63f058b4d2c6853e83d46dd38513c6a99003f10addbcc5206ce9fc363a70b6f"
 }
