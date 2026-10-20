@@ -1,7 +1,7 @@
 {
-  "version": "3.3.2",
-  "versionCode": 14,
-  "notes": "· AI 生成：你点名哪款就生成哪款，不再擅自换成别的机型\n· 机型显示为「宣传名（型号代码）」，如 vivo X200 Ultra（V2454A）\n· 自动校正 AI 机型参数：构建号前缀跟随系统版本、DEVICE 与 PRODUCT 一致、SDK 跟随系统版本",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.3.2/DeviceSpoofer-Multi-v3.3.2.apk",
-  "sha256": "397edde7163ae55bc6baf2045261e697895fc0e0dab1ff425121f9fcd8eca90b"
+  "version": "3.3.3",
+  "versionCode": 15,
+  "notes": "新增：对 LSPosed 勾选的应用强制允许截屏/录屏（首页开关，默认开）",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.3.3/DeviceSpoofer-Multi-v3.3.3.apk",
+  "sha256": "835230df643a30cc5d623b1ba3c2bb4f7e3ca99d24113db68467ae35c5cf7190"
 }
