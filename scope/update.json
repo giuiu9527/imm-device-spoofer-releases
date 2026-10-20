@@ -1,7 +1,7 @@
 {
-  "version": "scope-1.0.10",
-  "versionCode": 10010,
-  "notes": "新增：对 LSPosed 勾选的应用强制允许截屏/录屏（首页开关，默认开）",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.10/DeviceSpoofer-Scope-v1.0.10.apk",
-  "sha256": "fa52955913900805a0ec6368865783564449d3728bd8efcba76ad073ce0735a0"
+  "version": "scope-1.0.11",
+  "versionCode": 10011,
+  "notes": "检查更新增加",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.11/DeviceSpoofer-Scope-v1.0.11.apk",
+  "sha256": "fac101b8525b640f05148fd0c65f71537909e0e08b723eb3709fac049d746f10"
 }
