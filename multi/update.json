@@ -1,7 +1,7 @@
 {
-  "version": "3.3.6",
-  "versionCode": 18,
-  "notes": "隐藏 VPN，首页显示版本号。",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.3.6/DeviceSpoofer-Multi-v3.3.6.apk",
-  "sha256": "1a6f386e9375faea53ca1d6d271926f7a2942ac63c60c0b8d20228408f108b02"
+  "version": "3.3.7",
+  "versionCode": 19,
+  "notes": "检查更新和首页显示版本名。",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.3.7/DeviceSpoofer-Multi-v3.3.7.apk",
+  "sha256": "744431704e996a93abeb83b07d6b6222e76efee954e8a9e56a9b3518a7b7f0b2"
 }
