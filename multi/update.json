@@ -1,7 +1,7 @@
 {
-  "version": "3.3.5",
-  "versionCode": 17,
-  "notes": "内置近三年机型，点生成随机抽取并重分配标识。",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.3.5/DeviceSpoofer-Multi-v3.3.5.apk",
-  "sha256": "dae565eae87eced8e102d1999f7c04cfc593faa0bf7b587cca4c65aaa8d01f2f"
+  "version": "3.3.6",
+  "versionCode": 18,
+  "notes": "隐藏 VPN，首页显示版本号。",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.3.6/DeviceSpoofer-Multi-v3.3.6.apk",
+  "sha256": "1a6f386e9375faea53ca1d6d271926f7a2942ac63c60c0b8d20228408f108b02"
 }
