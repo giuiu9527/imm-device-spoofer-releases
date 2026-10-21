@@ -1,7 +1,7 @@
 {
-  "version": "scope-1.0.12",
-  "versionCode": 10012,
-  "notes": "内置近三年机型，点生成随机抽取并重分配标识。",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.12/DeviceSpoofer-Scope-v1.0.12.apk",
-  "sha256": "6aec42c9d3c879397c9311f45955d6380d4fde109709ff0768eaed2f8ac67228"
+  "version": "scope-1.0.13",
+  "versionCode": 10013,
+  "notes": "隐藏 VPN，首页显示版本号。",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.13/DeviceSpoofer-Scope-v1.0.13.apk",
+  "sha256": "1ccccef313f4c838e6952f1d791d1549c98076ff36dc22a10843e4f2248a10ae"
 }
