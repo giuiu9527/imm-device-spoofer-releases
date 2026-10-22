@@ -1,7 +1,7 @@
 {
-  "version": "3.3.7",
-  "versionCode": 19,
-  "notes": "检查更新和首页显示版本名。",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.3.7/DeviceSpoofer-Multi-v3.3.7.apk",
-  "sha256": "744431704e996a93abeb83b07d6b6222e76efee954e8a9e56a9b3518a7b7f0b2"
+  "version": "3.3.8",
+  "versionCode": 20,
+  "notes": "移除隐藏 VPN 功能，恢复到之前的网络行为",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/multi-v3.3.8/DeviceSpoofer-Multi-v3.3.8.apk",
+  "sha256": "84b7b7ae1f23465b7fc21506bc13fde6154d55ada295835088d74efccc738d79"
 }
