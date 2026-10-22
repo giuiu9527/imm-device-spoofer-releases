@@ -1,7 +1,7 @@
 {
-  "version": "scope-1.0.14",
-  "versionCode": 10014,
-  "notes": "检查更新和首页显示版本名。",
-  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.14/DeviceSpoofer-Scope-v1.0.14.apk",
-  "sha256": "59b155611749dbb32fbff435c57d5c2e0c4b7e84663ddc9ab4559a12679a474b"
+  "version": "scope-1.0.15",
+  "versionCode": 10015,
+  "notes": "移除隐藏 VPN 功能，恢复到之前的网络行为",
+  "apk": "https://github.com/giuiu9527/imm-device-spoofer-releases/releases/download/scope-v1.0.15/DeviceSpoofer-Scope-v1.0.15.apk",
+  "sha256": "c4a816b96057274cd469daa6b7d5779aa2d60d493a371c516aeb0971b13fb3b7"
 }
